@@ -72,3 +72,22 @@ hr {
     margin-left: -150px;
     height: 250px;
 }
+able {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+  text-align: center;
+}
+table {
+    margin-left: 40%;
+}
