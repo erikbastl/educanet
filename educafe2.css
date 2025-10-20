@@ -1,0 +1,99 @@
+h1 {
+    text-align: center;
+    font-family: "cursive", "Lucida Handwriting";
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.img { 
+    display: flex; 
+    height: 100px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: "cursive", "Lucida Handwriting";
+}
+hr {
+    height: 10px;
+    background-color:brown; 
+}
+.gg {
+    height: 60px;
+    background-color: brown;
+    margin-bottom: 50px;
+    padding: 15px;
+    gap: 75px;
+    justify-content: center;
+    display: flex;
+}
+.gg a {
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    transition: 0.15s;
+}
+.gg a:hover {
+    transform:scale(1.2);
+}
+.gg img {
+    margin-left: -300px;
+}
+.copyright {
+    margin-top: 5%;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    padding: 50px;
+}
+.jidlo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-left: -100px;
+    height: 250px;
+
+}
+.jidlo img {
+    gap: 50px;
+}
+.jidlo :hover {
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+.jidlo2 :hover {
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+.jidlo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+    margin-left: -20px;
+    height: 250px;
+}
+.text {
+     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin-left: -50px;
+    height: 50px;
+}
+.text2 {
+     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin-left: -60px;
+    height: 50px;
+}
